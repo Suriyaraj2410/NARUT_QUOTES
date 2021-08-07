@@ -1,0 +1,42 @@
+body {
+  background-image: url("./team7.jpg");
+  background-size: cover;
+  box-sizing: border-box;
+  width: 100%;
+  height: 800px;
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.outerbody {
+  width: 70%;
+  height: auto;
+  margin: 30px;
+  padding: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  text-align: center;
+}
+.header {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(12, 12, 12);
+  font-weight: bold;
+}
+.quote {
+  font-weight: bold;
+  color: black;
+}
+.said_by {
+  font-weight: bold;
+  color: black;
+}
+.button {
+  border: 0px;
+  background-color: black;
+  color: whitesmoke;
+  font-weight: bold;
+  border-radius: 10px;
+  text-align: center;
+}
