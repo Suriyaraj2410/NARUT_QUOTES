@@ -1,0 +1,1 @@
+# NARUT_QUOTES
